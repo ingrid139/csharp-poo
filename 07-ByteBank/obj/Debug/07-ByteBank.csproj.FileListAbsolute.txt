@@ -1,0 +1,6 @@
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\Ingrid Costa\Documents\Desenvolvimento\csharppoo-master\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.pdb
